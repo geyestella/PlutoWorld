@@ -14,7 +14,7 @@ Welcome to PlutoWorld
 ### Feminist
 
 
-![Image](2016-11-20 202722.jpg)
+[2016-11-20 202722.jpg]
 ```
 
 
